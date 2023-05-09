@@ -1,6 +1,5 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
 import { client } from '../../api/client'
-import { useSelector } from 'react-redux'
 
 const initialState = []
 
